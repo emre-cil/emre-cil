@@ -25,4 +25,4 @@
    <a href="https://kheseyroon.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-@Kheseyroon-blue?style=flat&logo=github"></a>
  </p>
 </div>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=Kheseyroon" alt="Kheseyroon" /></a></p>
+
