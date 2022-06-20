@@ -47,7 +47,6 @@ I am a creative and results driven computer engineering student at Akdeniz Unive
 
 - 🌐Portfolio [website](https://emre-cil.github.io)  
  
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Kheseyroon" alt="Kheseyroon" /></a></p>
 
 
 </td><td valign="top" width="50%">
@@ -112,7 +111,10 @@ I am a creative and results driven computer engineering student at Akdeniz Unive
 ----
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>  
+<br/>  
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Kheseyroon" alt="Kheseyroon" /></a></p>
 
 
  
