@@ -45,7 +45,7 @@ I am a creative and results driven computer engineering student at Akdeniz Unive
 - 📭Mail me [info.emrecil@gmail.com](mailto:info.emrecil@gmail.com)  
   
 
-- 🌐Portfolio [website](https://emre-cil.github.io)  
+- 🌐Portfolio [emrecil.tech](https://emrecil.tech)  
  
 
 
