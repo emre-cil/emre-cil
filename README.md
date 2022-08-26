@@ -41,10 +41,11 @@ I am a creative and results driven computer engineering student at Akdeniz Unive
 - ❓ Ask me about anything related to front-end, blockchain and related technologies  
   
 
-- 📭Mail me [info.emrecil@gmail.com](mailto:info.emrecil@gmail.com)  
+- 📭 Mail me [info.emrecil@gmail.com](mailto:info.emrecil@gmail.com)  
   
+- 👍 Typescript + React + Mui + vite + pnpm === current 
 
-- 🌐Portfolio [emrecil.tech](https://emrecil.tech)  
+- 🌐 Portfolio [emrecil.tech](https://emrecil.tech)  
  
 
 
