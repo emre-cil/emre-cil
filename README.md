@@ -23,11 +23,10 @@
 
 
 ### Glad to see you here!  
-I am a creative and results driven computer engineering student at Akdeniz University with 3 years of IT experience including oversight of infrastructure, software development and project management. I am working as Front-end Developer at Turkishaerospace. In this role, I worked on multiple organizational and project management topics. I am enthusiast of Front-end development, blockchain development, UI/UX Design and project management.  
+I am a creative and results driven computer engineering student at Akdeniz University with 3 years of IT experience including oversight of infrastructure, software development and project management. I am enthusiast of Front-end development, blockchain development, UI/UX Design and project management.
+
   
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
