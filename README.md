@@ -68,6 +68,8 @@ I am a creative and results driven computer engineering student at Akdeniz Unive
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
   <img style="margin: 10px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite.js" height="50" />  
+  
+<img style="margin: 10px" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="rtkquery" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -91,23 +93,20 @@ I am a creative and results driven computer engineering student at Akdeniz Unive
 
 
 
-## Github Stats  
+## Github Stats
+<details>
 <div align="center">
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=emre-cil&show_icons=true&count_private=true&theme=radical&locale=en&hide_border=true" align="left" style="width: 100%" />
 </p>
 </div>
-
- 
 <div align="center">
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emre-cil&hide_border=true&theme=radical&locale=en&layout=compact" align="right" style="width: 100%" />
 </p>
 </div>
+</details>
 
-
-
-----
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <br/>  
