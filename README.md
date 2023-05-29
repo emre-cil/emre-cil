@@ -23,18 +23,18 @@
 
 
 ### Glad to see you here!  
-I am a creative and results driven computer engineering student at Akdeniz University with 3 years of IT experience including oversight of infrastructure, software development and project management. I am enthusiast of Front-end development, blockchain development, UI/UX Design and project management.
+I am a creative and results driven computer engineering student at Akdeniz University with 4 years of IT experience including oversight of infrastructure, software development and project management. I am enthusiast of Front-end development, blockchain development, UI/UX Design and project management.
 
   
 <br/>  
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
  
 
 - 🌍 Living in Antalya/Turkey  
   
-- 🌱 I’m currently learning Typescript 
+- 🌱 I’m currently learning CI/CD
   
 - ❓ Ask me about anything related to front-end, blockchain and related technologies  
 
@@ -44,13 +44,6 @@ I am a creative and results driven computer engineering student at Akdeniz Unive
 
 - 🌐 Portfolio [emrecil.tech](https://emrecil.tech)  
  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
