@@ -23,7 +23,7 @@
 
 
 ### Glad to see you here!  
-I am a creative and results driven computer engineering student at Akdeniz University with 4 years of IT experience including oversight of infrastructure, software development and project management. I am enthusiast of Front-end development, blockchain development, UI/UX Design and project management.
+I am a creative and results driven full stack web engineer with 4 years of IT experience including oversight of infrastructure, software development and project management. I am enthusiast of Front-end development, cross-platform development, blockchain development, UI/UX Design and project management.
 
   
 <br/>  
@@ -32,17 +32,17 @@ I am a creative and results driven computer engineering student at Akdeniz Unive
 <table><tr><td valign="top" width="100%">
  
 
-- 🌍 Living in Antalya/Turkey  
+- 🌍 Living in Istanbul/Turkey  
   
 - 🌱 I’m currently learning CI/CD
   
-- ❓ Ask me about anything related to front-end, blockchain and related technologies  
+- ❓ Ask me about anything related to front-end and related technologies  
 
 - 📭 Mail me [info.emrecil@gmail.com](mailto:info.emrecil@gmail.com)  
   
-- 👍 Typescript + React + Redux + RTKQuery + Mui + Vite + pnpm === current 
+- 👍 Typescript + React + ( Redux || Zustand ) + ( RTKQuery || React Query ) + ( Mui || Tailwind CSS ) + Vite + pnpm === current 
 
-- 🌐 Portfolio [emrecil.tech](https://emrecil.tech)  
+- 🌐 Portfolio [emrecil.tech](https://emrecil.com.tr)  
  
 
 
