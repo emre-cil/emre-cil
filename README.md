@@ -42,7 +42,7 @@ I am a creative and results driven full stack web engineer with 4 years of IT ex
   
 - 👍 Typescript + React + ( Redux || Zustand ) + ( RTKQuery || React Query ) + ( Mui || Tailwind CSS ) + Vite + pnpm === current 
 
-- 🌐 Portfolio [emrecil.tech](https://emrecil.com.tr)  
+- 🌐 Portfolio [emrecil.com.tr](https://emrecil.com.tr)  
  
 
 
