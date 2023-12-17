@@ -23,8 +23,7 @@
 
 
 ### Glad to see you here!  
-I am a creative and results driven full stack web engineer with 4 years of IT experience including oversight of infrastructure, software development and project management. I am enthusiast of Front-end development, cross-platform development, blockchain development, UI/UX Design and project management.
-
+Experienced Mid Frontend Engineer and Full Stack Developer with a proven track record in conceptualizing, designing, and deploying comprehensive applications for both mobile and web platforms. Possessing 4 years of overall IT experience, with a focus on frontend development for 3 years, backend expertise for 1 year, and 1 year of mobile development experience. Dedicated to staying abreast of industry trends, I am an eager learner committed to continuous self-improvement. Known for reliability, diligence, and the ability to deliver high-quality results, I've successfully contributed to numerous business projects for a diverse range of companies, both as a freelancer and in full-time roles.
   
 <br/>  
 
@@ -40,7 +39,7 @@ I am a creative and results driven full stack web engineer with 4 years of IT ex
 
 - 📭 Mail me [info.emrecil@gmail.com](mailto:info.emrecil@gmail.com)  
   
-- 👍 Typescript + React + ( Redux || Zustand ) + ( RTKQuery || React Query ) + ( Mui || Tailwind CSS ) + Vite + pnpm === current 
+- 👍 Typescript + ( React || Next.js) + ( Redux || Zustand ) + ( RTKQuery || React Query ) + ( Mui || Tailwind CSS ) + Nest.js + Vite + pnpm === current 
 
 - 🌐 Portfolio [emrecil.com.tr](https://emrecil.com.tr)  
  
@@ -80,21 +79,6 @@ I am a creative and results driven full stack web engineer with 4 years of IT ex
 
 <br/>  
 
-
-
-## Github Stats
-<details>
-<div align="center">
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=emre-cil&show_icons=true&count_private=true&theme=radical&locale=en&hide_border=true" align="left" style="width: 100%" />
-</p>
-</div>
-<div align="center">
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emre-cil&hide_border=true&theme=radical&locale=en&layout=compact" align="right" style="width: 100%" />
-</p>
-</div>
-</details>
 
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
